@@ -1,7 +1,10 @@
 # connect-4-pi
 Connect-4 for the Raspberry Pi with a Sense HAT
 
-A full discussion of this code and how it got started is located on my blog here.  Basically this is an implementation of the classic game of Connect-4 using the 8x8 LED matrix of the Pi Sense HAT with a Raspberry Pi 2.
+A full discussion of this code and how it got started is located at:
+[http://knowyourtoolset.com/2016/05/journey-to-connect-4-on-rasberry-pi-2-with-pi-sense-hat/](http://knowyourtoolset.com/2016/05/journey-to-connect-4-on-rasberry-pi-2-with-pi-sense-hat/)  
+
+Basically this is an implementation of the classic game of Connect-4 using the 8x8 LED matrix of the Pi Sense HAT with a Raspberry Pi 2.
 
 # Getting Started #
 The two python files here are the iterative variants of me and some Makers Club members from a school working our way to a functional Connect-4 game.

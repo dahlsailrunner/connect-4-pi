@@ -103,9 +103,9 @@ def checkWin(p, c, r):
     return False
 
 ###------------------------------------------------------
-### dropChip takes a player (color) and column and
-###   "drops" the color as far as it can go and updates
-###   the board, returning the y position of the drop
+### countAdjacent takes a column change (yChange)
+###   and rowChange (xChange) and returns the number  
+###   of adjacent chips in that direction from the original spot
 ###------------------------------------------------------    
 def countAdjacent(p, c, r, yChange, xChange):
     global board
