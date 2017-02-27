@@ -14,6 +14,7 @@ pygame.display.set_mode((640, 480))
 sense = SenseHat()
 sense.clear()  # Blank the LED matrix
 
+### THIS IS A CRAZY NEW COMMENT
 #each array is a column with 8 row values --- 8 columns total
 board = [
           [ '', '', '', '', '', '', '', ''],
